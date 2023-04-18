@@ -1,0 +1,6 @@
+console.log(1%5)
+console.log(20%5)
+console.log(5%50)
+console.log(10%2)
+console.log(80%81)
+console.log(8.8%81)
